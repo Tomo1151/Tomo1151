@@ -5,7 +5,7 @@
 # 😎 Profile
 - name: τomo
 - born: 2004
-- hobby: programming / game / guitar / sing
+- hobby: 💻 Programming / 🎮 Game / 🎸 Guitar / 🎤 Singing
 <br>
 
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
